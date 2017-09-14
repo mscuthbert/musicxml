@@ -557,7 +557,7 @@
 	from one pitch to the other so that individual notes are not
 	discerned. The distinction is similar to that between NIFF's
 	glissando and portamento elements. A glissando sounds the
-	half notes in between the slide and defaults to a wavy line.
+	half steps in between the slide and defaults to a wavy line.
 	A slide is continuous between two notes and defaults to a
 	solid line. The optional text for a glissando or slide is
 	printed alongside the line.
